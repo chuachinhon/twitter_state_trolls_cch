@@ -1,8 +1,13 @@
 # Using Data Science To Uncover State-Backed Trolls On Twitter
 
-## by Chua Chin Hon
+### by Chua Chin Hon
 
-Github Repo Title: twitter_state_trolls_cch
+![](https://miro.medium.com/max/4800/1*9EAcE2r6dqPPDukE5fmWUA.jpeg)
+
+
+## UPDATE - SEPT 2020
+I have posted a new repo on creating and using a fine tuned transformer model to detect state-troll tweets. Detailed notebooks, data and a web app can be found [here](https://github.com/chuachinhon/transformers_state_trolls_cch) if you'd like to explore an alternative approach to this.
+
 
 ## SUMMARY
 Social media companies like Twitter and Facebook have been exposing the activities of state-backed operators on their platforms. But little is known about how Twitter, FB and other companies uncover these shadowy operations and their politically motivated content.
